@@ -1,0 +1,42 @@
+
+Topics:
+
+  React-Router-DOM
+    https://reactrouter.com/en/main
+  
+  react-router-dom:
+
+    Routing the DOM using the url path,
+      uses window props location, history
+  
+    BrouserRouter:
+      parent wrapper tag which includes the routes tag
+
+    Routes:
+      includes all the routes
+
+    Route:
+      route with a pathname binds a dom to the path
+    
+    Default Route:
+      default dom element when no route/path is found
+      
+    Link:
+      Link - anchor to a specific path
+      Navigates from one page to the other page
+
+    path params:
+      useParams
+    
+    query params:
+      useSearchParams
+    
+    Navigate:
+      navigates to the specified route
+    
+  
+Task:
+
+  Day 24: https://docs.google.com/document/d/1nuVbWYwyP7N1zC9rAoO0taVvthGWsaHH-nfhNdklTQw/edit
+
+
